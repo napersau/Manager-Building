@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Created-By: IntelliJ IDEA
-Built-By: 84334
-Build-Jdk: 1.8.0_202
-Implementation-Version: 1.0
-Implementation-Vendor-Id: com.laptrinhjavaweb
-Main-Class: ${start-class}
-
