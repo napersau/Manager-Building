@@ -13,12 +13,19 @@
 MySQL, Maven.
       	</p>
         <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/1.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <br></br>
         <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/2.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <br></br>
         <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/3.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <br></br>
         <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/4.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <br></br>
         <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/5.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <br></br>
         <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/6.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <br></br>
         <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/7.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;">   
+        <br></br>
     </div>
     <br></br>
     <div class="section">
