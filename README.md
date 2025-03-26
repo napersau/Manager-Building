@@ -6,22 +6,19 @@
 
 </head>
 <body>
-    <h1>Shoe Store</h1>
+    <h1>Manager Building</h1>
     <div class="section">
         <h2>Giới thiệu</h2>
         <p>Dự án Manager Building là một ứng dụng Web hỗ trợ quản lý dễ dàng tòa nhà, nhân viên, khách hàng và giao dịch với khách hàng. Trang Web được xây dựng bằng  HTML, CSS, JavaScript, Spring Boot, Spring MVC, Spring Security, Spring JPA(ORM), JSP , 
 MySQL, Maven.
       	</p>
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/1.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/2.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/3.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/4.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/5.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/6.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/7.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/8.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/9.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
-        <img src="https://github.com/napersau/Shoe-Store/blob/main/FE/Shoe%20Store/public/%25PUBLIC_URL%25/logo/10.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;">    
+        <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/1.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/2.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/3.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/4.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/5.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/6.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;"> 
+        <img src="https://github.com/napersau/Manager-Building/blob/main/sql%26img/7.png" alt="Ảnh Demo" style="max-width:100%; height:auto; border:1px solid #ddd; border-radius:5px; padding:5px;">   
     </div>
     <br></br>
     <div class="section">
